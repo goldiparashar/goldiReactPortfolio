@@ -6,6 +6,7 @@ import { RiLinkedinFill, RiYoutubeFill } from "react-icons/ri";
 import { IoLogoDribbble } from "react-icons/io";
 import { FaFacebookF, FaTwitter, FaGithub} from "react-icons/fa";
 import { MdArrowOutward } from "react-icons/md";
+import { IoLogoWordpress } from "react-icons/io";
 import { DiPhotoshop } from "react-icons/di";
 import { RiHtml5Line } from "react-icons/ri";
 import { BsFiletypeCss } from "react-icons/bs";
@@ -20,6 +21,7 @@ const IconMap = {
     RiBootstrapLine: RiBootstrapLine,
     BsFiletypeCss: BsFiletypeCss,
     FaReact: FaReact,
+    IoLogoWordpress:IoLogoWordpress
   };
 
 function About() {
@@ -104,7 +106,7 @@ useEffect(()=>{
                 </Ul>
             </Col>
             <Col sm="12">
-                <p>Hi, I am Goldi! I'm a designer with 3 years of web development experience with the past 2 years spent honing my skills in WordPress, Shopify. And Webflow</p>
+                <p>Hi, I am Goldi! I'm a Frontend Developer with 2 years experience with the past 2 years spent honing my skills in HTML, CSS, bootstrap, Javascript, Jquery, React Js, Adobe Photoshop.</p>
             </Col>
             <Col md="8">
                 <p>1 understand the importance of a Pixel-perfect Website, pride myself on producing high-quality websites, and I'm comfortable working solo or as part of a team.</p>

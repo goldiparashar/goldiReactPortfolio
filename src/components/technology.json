@@ -1,32 +1,32 @@
 [
     {   "id":"1",
         "icon":"<DiPhotoshop />",
-        "title":"ui & ux design",
-        "description":"As a UI/UX designer, I specialize in creating beautiful, intuitive designs that make your website or application stand out."
+        "title":"Adobe Photoshop",
+        "description":"As my past experience in Graphics designer, I specialize in creating beautiful, intuitive designs that make your website or application stand out."
     },
     {    "id":"2",
         "icon":"<RiHtml5Line />",
-        "title":"webflow",
-        "description":"I specialize in creating custom, responsive Webflow websites that look great and function seamlessly across all devices. With attention to detail."
+        "title":"HTML",
+        "description":"I specialize in creating custom, responsive websites that look great and function seamlessly across all devices. With attention to detail."
     },
     {    "id":"3",
         "icon":"<BsFiletypeCss />",
-        "title":"elementor",
-        "description":"As an experienced Elementor developer, I provide web development services that encompass website cloning, redesign, and a full website."
+        "title":"CSS",
+        "description":"As an experienced developer, I provide web development services that encompass website responsive, cross-compatible, css animation."
     },
     {    "id":"4",
         "icon":"<RiBootstrapLine />",
-        "title":"wordpress",
+        "title":"BootStrap",
         "description":"I offer custom web development services tailored to your unique needs. Whether you need a complete website build or just some updates to your existing site,"
     },
     {   "id":"5",
         "icon":"<FaReact />",
-        "title":"shopify",
-        "description":"My e-commerce solutions are optimized for conversions. I focus on delivering user-friendly designs that encourage visitors to make a purchase."
+        "title":"React Js",
+        "description":"Created web app using javascript Framework like React Js. I focus on delivering user-friendly designs that encourage visitors to make a purchase."
     },
     {    "id":"6",
-        "icon":"<FaReact />",
-        "title":"marketing",
-        "description":"I can help you with develop and execute a social media strategy that engages your audience, drives traffic, and increases conversions."
+        "icon":"<IoLogoWordpress />",
+        "title":"Wordpress",
+        "description":"I can help you with develop E-Commerce websites in wordpress."
     }
 ]
