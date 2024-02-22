@@ -1,43 +1,43 @@
 [
     {
         "id":"1",
-        "img":"../images/img-teledentix.gif",
+        "img":"./images/img-teledentix.gif",
         "link":"https://teledentix.com/",
         "tech":"html/css/bootstrap/javascript/jquery"
     },
     {
         "id":"2",
-        "img":"../images/img-dental-com.jpg",
+        "img":"./images/img-dental-com.jpg",
         "link":"https://dental.com/",
         "tech":"html/css/bootstrap/javascript/jquery"
     },
     {
         "id":"3",
-        "img":"../images/bbq-outlets.png",
+        "img":"./images/bbq-outlets.png",
         "link":"https://www.bbqoutlets.com/",
         "tech":"photoshop/html/css"
     },
     {
         "id":"4",
-        "img":"../images/img-matrid-banner.png",
+        "img":"./images/img-matrid-banner.png",
         "link":"https://www.matridtech.net/blog/page/3/",
         "tech":"photoshop"
     },
     {
         "id":"4",
-        "img":"../images/boldo.png",
+        "img":"./images/boldo.png",
         "link":"https://goldiparashar.github.io/Boldo/",
         "tech":"html/css/bootstrap/javascript/jquery"
     },
     {
         "id":"5",
-        "img":"../images/cosme.png",
+        "img":"./images/cosme.png",
         "link":"https://goldiparashar.github.io/COSME/?",
         "tech":"html/css/bootstrap/javascript/jquery"
     },
     {
         "id":"6",
-        "img":"../images/weather-app.png",
+        "img":"./images/weather-app.png",
         "link":"https://goldiparashar.github.io/weather-app/",
         "tech":"html/css/javascript"
     }
