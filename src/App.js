@@ -16,16 +16,13 @@ function App() {
       <Sticky enabled={true} innerZ={2} top={0} innerClass='sticky-header'>
         <Header></Header>
       </Sticky>
-      <switch>
-        {/* <Route path='/' Component={Home}></Route> */}
-        <Routes>
-        <Route exact path='/' Component={Home}></Route>
-        <Route exact path='/Home' Component={Home}></Route>
-        <Route exact path='/Portfolio' Component={Portfolio}></Route>
-        <Route exact path='/Process' Component={Process}></Route>
-        <Route exact path='/Contact' Component={Contact}></Route>
+      <Routes>
+        <Route path='/goldiReactPortfolio/' Component={Home}></Route>
+        <Route exact path='goldiReactPortfolio/Home' Component={Home}></Route>
+        <Route exact path='goldiReactPortfolio/Portfolio' Component={Portfolio}></Route>
+        <Route exact path='goldiReactPortfolio/Process' Component={Process}></Route>
+        <Route exact path='goldiReactPortfolio/Contact' Component={Contact}></Route>
         </Routes>
-      </switch>
       <Footer></Footer>
     </>
   );

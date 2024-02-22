@@ -22,7 +22,7 @@ function Header() {
             <GlobalStyle></GlobalStyle>
                 <Col>
                     <div className='d-flex w-100 justify-content-between'>
-                        <NavLink to="/Home" className="text-decoration-none text-white fs-3">Goldi</NavLink>
+                        <NavLink to="goldiReactPortfolio/Home" className="text-decoration-none text-white fs-3">Goldi</NavLink>
                         <div>
                             <Button style={{backgroundColor:"#fff", color:"#0A0A0A", border:"#fff"}} onClick={handleShow}>
                                 <FaBars/>
@@ -33,16 +33,16 @@ function Header() {
                                 <Offcanvas.Body>
                                     <ul className="mb-0 p-0 list-unstyled">
                                         <li className='p-2'>
-                                            <NavLink className="text-decoration-none"  active to="/Home">Home</NavLink>
+                                            <NavLink className="text-decoration-none"  active to="goldiReactPortfolio/Home">Home</NavLink>
                                         </li>
                                         <li className='p-2'>
-                                            <NavLink className="text-decoration-none"  active to="/Portfolio">Portfolio</NavLink>
+                                            <NavLink className="text-decoration-none"  active to="goldiReactPortfolio/Portfolio">Portfolio</NavLink>
                                         </li>
                                         <li className='p-2'>
-                                            <NavLink className="text-decoration-none" to="/Process">Process</NavLink>
+                                            <NavLink className="text-decoration-none" to="goldiReactPortfolio/Process">Process</NavLink>
                                         </li>
                                         <li className='p-2'>
-                                            <NavLink className="text-decoration-none" to="/Contact">Contact</NavLink>
+                                            <NavLink className="text-decoration-none" to="goldiReactPortfolio/Contact">Contact</NavLink>
                                         </li>
                                     </ul>
                                 </Offcanvas.Body>
