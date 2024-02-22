@@ -19,7 +19,7 @@ function App() {
       <switch>
         {/* <Route path='/' Component={Home}></Route> */}
         <Routes>
-        <Route path='' Component={Home}></Route>
+        <Route exact path='/' Component={Home}></Route>
         <Route exact path='/Home' Component={Home}></Route>
         <Route exact path='/Portfolio' Component={Portfolio}></Route>
         <Route exact path='/Process' Component={Process}></Route>
