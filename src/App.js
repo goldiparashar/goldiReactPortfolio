@@ -18,10 +18,10 @@ function App() {
       </Sticky>
       <Routes>
         <Route path='/goldiReactPortfolio/' Component={Home}></Route>
-        <Route exact path='goldiReactPortfolio/Home' Component={Home}></Route>
-        <Route exact path='goldiReactPortfolio/Portfolio' Component={Portfolio}></Route>
-        <Route exact path='goldiReactPortfolio/Process' Component={Process}></Route>
-        <Route exact path='goldiReactPortfolio/Contact' Component={Contact}></Route>
+        <Route exact path='/goldiReactPortfolio/Home' Component={Home}></Route>
+        <Route exact path='/goldiReactPortfolio/Portfolio' Component={Portfolio}></Route>
+        <Route exact path='/goldiReactPortfolio/Process' Component={Process}></Route>
+        <Route exact path='/goldiReactPortfolio/Contact' Component={Contact}></Route>
         </Routes>
       <Footer></Footer>
     </>
